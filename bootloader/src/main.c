@@ -8,5 +8,6 @@
 
 int main(void)
 {
+	printk("Hello from the bootloader\n");
 	return 0;
 }
